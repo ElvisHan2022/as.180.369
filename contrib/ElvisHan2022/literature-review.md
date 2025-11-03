@@ -1,0 +1,7 @@
+## 2. Literature Review
+
+The HRRP has been widely studied as a flagship Medicare value-based purchasing initiative. Early analyses (Zuckerman et al., 2016; Gupta et al., 2017) found modest reductions in readmissions but limited evidence of improved patient outcomes. Studies such as Joynt & Jha (2013) and Figueroa et al. (2018) documented disproportionate penalties among safety-net hospitals, highlighting the role of social determinants and patient case mix.
+
+More recent research links HRRP behavior to coding and classification strategies. Carey and Lin (2021) show hospitals increasingly use observation stays as substitutes for readmissions, suggesting potential metric gaming rather than genuine efficiency gains. This motivates the creation of an Observation Substitution Index (OSI) to quantify this substitution pattern at the hospital level.
+
+Empirical work on DRG weights (CMS, FY 2019 NPRM) and Excess Readmission Ratios suggests that case-mix adjustment may inadequately control for patient severity, particularly across socioeconomically diverse regions. Additionally, studies on peer-group medians reveal that even within condition cohorts, hospitals serving higher dual-eligible proportions tend to have persistently higher ERRs (Gupta et al., 2020). Together, these findings imply that current HRRP design may conflate hospital performance with structural inequities, motivating further econometric investigation.

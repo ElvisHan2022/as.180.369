@@ -1,0 +1,7 @@
+## 1. Introduction
+
+The Hospital Readmissions Reduction Program (HRRP), implemented under the Affordable Care Act, financially penalizes hospitals with excess 30-day readmission rates for select conditions. Although the program aims to improve quality and reduce unnecessary hospitalizations, recent evidence suggests that observed penalties may reflect differences in patient populations rather than care quality. Hospitals serving low-income, dual-eligible, or medically complex patients often face persistently higher Excess Readmission Ratios (ERRs), raising concerns about fairness and incentive design.
+
+This project evaluates whether HRRP penalties capture true performance or confound social risk. By examining administrative data on readmissions, DRG weights, and hospital-level characteristics, I test whether structural factors such as payer mix and peer-group composition explain observed penalty differences. In addition, I construct a new measure—the Observation Substitution Index (OSI)—to capture how hospitals may strategically reclassify short-stay readmissions as outpatient observation to avoid penalties.
+
+Understanding these dynamics is essential for improving the equity and efficiency of Medicare’s value-based purchasing programs. This study contributes to a growing literature questioning whether pay-for-performance models achieve their intended welfare improvements or shift financial burdens onto already resource-constrained providers.
